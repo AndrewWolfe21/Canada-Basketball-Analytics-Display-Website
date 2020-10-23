@@ -16,3 +16,11 @@ Code that goes along with the website https://www.canadabasketballanalytics.com/
 #### All Canadian NBA Players into a consolidated CSV
 
 - Python Script: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Combined_Player_File_Listing.py
+
+## FIBA
+
+### How to web scrape Team Canada's rankings and load into an AWS S3 Bucket and MySQL database
+
+- Python Script: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Get_All_FIBA_Rankings.py
+
+- Blog Post: https://www.canadabasketballanalytics.com/2020/10/23/how-to-web-scrape-team-canadas-fiba-rankings-and-load-data-into-an-s3-bucket-and-mysql-database/
