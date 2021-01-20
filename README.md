@@ -17,6 +17,10 @@ Code that goes along with the website https://www.canadabasketballanalytics.com/
 
 - Python Script: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Combined_Player_File_Listing.py
 
+#### Grabbing names and stats of all the Canadians currently playing in the NBA
+
+- Jupyter Notebook: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Canadians_NBA_Active.ipynb
+
 ## FIBA
 
 ### How to web scrape Team Canada's rankings and load into an AWS S3 Bucket and MySQL database
