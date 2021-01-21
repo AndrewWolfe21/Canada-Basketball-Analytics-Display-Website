@@ -21,6 +21,8 @@ Code that goes along with the website https://www.canadabasketballanalytics.com/
 
 - Jupyter Notebook: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Canadians_NBA_Active.ipynb
 
+- Blog Post: https://www.canadabasketballanalytics.com/2021/01/20/how-to-web-scrape-canadians-in-the-nba/
+
 ## FIBA
 
 ### How to web scrape Team Canada's rankings and load into an AWS S3 Bucket and MySQL database
