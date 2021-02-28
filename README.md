@@ -4,9 +4,7 @@ Code that goes along with the website https://www.canadabasketballanalytics.com/
 
 ## NBA 
 
-### Player Gamelog Code
-
-#### Jamal Murray 
+#### Player Gamelog Code - Jamal Murray 
 - Jupyter Notebook: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Jamal%20Murray%20Player%20Gamelogs.ipynb
 
 - Sample Output CSV Data: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Jamal%20Murray2019.csv
@@ -22,6 +20,12 @@ Code that goes along with the website https://www.canadabasketballanalytics.com/
 - Jupyter Notebook: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Canadians_NBA_Active.ipynb
 
 - Blog Post: https://www.canadabasketballanalytics.com/2021/01/20/how-to-web-scrape-canadians-in-the-nba/
+
+#### NBA Shot Chart Data 
+
+- Jupyter Notebook: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Jamal%20Murray%20Shotcharts.ipynb
+
+- Blog Post: https://www.canadabasketballanalytics.com/2021/02/28/how-to-pull-nba-shot-chart-data/
 
 ## FIBA
 
