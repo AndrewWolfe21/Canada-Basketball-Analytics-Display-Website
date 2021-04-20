@@ -34,3 +34,9 @@ Code that goes along with the website https://www.canadabasketballanalytics.com/
 - Python Script: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Get_All_FIBA_Rankings.py
 
 - Blog Post: https://www.canadabasketballanalytics.com/2020/10/23/how-to-web-scrape-team-canadas-fiba-rankings-and-load-data-into-an-s3-bucket-and-mysql-database/
+
+## WNBA
+
+### Web Scraping Canadians in the WNBA
+
+- Python Script: https://github.com/AndrewWolfe21/Canada-Basketball-Analytics-Display-Website/blob/master/Canadians_WNBA_Active.py
